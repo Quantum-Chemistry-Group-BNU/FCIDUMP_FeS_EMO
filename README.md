@@ -2,7 +2,7 @@
 # FCIDUMP file for iron-sulfur clusters in the entanglement-minmized orbitals
 
 The active space is the same as before defined by localized molecular orbitals (LMO) [see below],
-but the basis functions are entanglement-minmized orbitals obtained with a randomized orbital optimization using spin-adapted matrix product states with bond dimension D=100 in Z. Li, Phys. Rev. Lett. 135, 210601 (2025). The corresponding energies can be found in the Supplemental Meterial in this paper.
+but the basis functions are entanglement-minmized orbitals obtained with a randomized orbital optimization using spin-adapted matrix product states with bond dimension D=100 in Z. Li, Phys. Rev. Lett. 135, 210601 (2025). The corresponding energies can be found in the Supplemental Meterial in this paper, where the core energies are also provided.
 
 Previous FCIDUMP in the LMO basis:
 
